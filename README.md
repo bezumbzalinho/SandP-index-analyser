@@ -1,0 +1,1 @@
+In this repo we will do an exploratory data analysis, then we will to model it and to do some forecasting in a time series that we choose to analyse. Due to the interest of stocks and trading around the world we will analyse and explore the historical stock price for S&P 500 Index using Yahoo Finance databases.
